@@ -1,5 +1,5 @@
 # java-gestao-convidados
-App em Java para controle de convidados, proposto no ebook Produtividade no desenvolvimento de aplicações web com Springboot da Algaworks
+App Java para controle de convidados, proposto no ebook Produtividade no desenvolvimento de aplicações web com Springboot da Algaworks
 <br><br>
 <a href="https://cafe.algaworks.com/livro-spring-boot/?utm_campaign=ads&utm_source=google&utm_medium=cpc&gclid=Cj0KCQiAm5ycBhCXARIsAPldzoUxPCBHX1PYG9XjMM1ojWcD9vJ1_z5ueSZzSL4Oo-f7R_bDFcGa3kkaAvcpEALw_wcB" target="_blank" alt="Link ebook">🔗Link para dowload gratuito do ebook</a>
 <hr>
