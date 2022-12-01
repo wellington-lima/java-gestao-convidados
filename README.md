@@ -1,5 +1,7 @@
 # java-gestao-convidados
-App em java para controle de convidados
+App em Java para controle de convidados, proposto no ebook Produtividade no desenvolvimento de aplicações web com Springboot da Algaworks
+<br><br>
+<a href="https://cafe.algaworks.com/livro-spring-boot/?utm_campaign=ads&utm_source=google&utm_medium=cpc&gclid=Cj0KCQiAm5ycBhCXARIsAPldzoUxPCBHX1PYG9XjMM1ojWcD9vJ1_z5ueSZzSL4Oo-f7R_bDFcGa3kkaAvcpEALw_wcB" target="_blank" alt="Link ebook">🔗Link para dowload gratuito do ebook</a>
 <hr>
 
 ### ⚡ Tecnologias
@@ -9,10 +11,19 @@ App em java para controle de convidados
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/></td>
-  <td>thymeleaf</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/></td>
+          
  </tr>
 </table>
 <br>
+
+> - Spring Boot
+> - Spring MVC
+> - Spring Data JPA
+> - Spring Security
+> - Spring Tool Suite
+> - Thymeleaf
+
 <hr>
 
 ### :technologist: Autor
